@@ -12,7 +12,7 @@ Welcome to the official software repository for **Mos Linux**, a high-performanc
 
 ## 🌟 Overview
 
-**Mos Linux** is designed for users who crave a clean, refined, and cinematic desktop experience. By combining the power of Arch Linux with meticulously tuned desktop environments (DDE & KDE), we provide a studio-level OS that stays true to its source while enhancing every detail.
+**Mos Linux** is designed for users who crave a clean, refined, and cinematic desktop experience. By combining the power of Arch Linux with meticulously tuned desktop environments like (DDE & KDE), we provide a studio-level OS that stays true to its source while enhancing every detail.
 
 ### Key Features:
 * **True-to-Source Enhancement:** Pure Arch power with professional-grade optimizations.
